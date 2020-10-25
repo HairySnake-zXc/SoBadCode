@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - platform
+  - notplatform
+  - death
+  - iceball
+  - fireball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - BloomLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Other
+    uniqueID: 1867490791
+    locked: 0
+  - name: Background
+    uniqueID: 1313318147
+    locked: 0
+  - name: Front
+    uniqueID: 3470912249
+    locked: 0
+  - name: Camera
+    uniqueID: 1694177141
+    locked: 0
